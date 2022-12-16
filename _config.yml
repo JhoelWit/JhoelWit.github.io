@@ -1,0 +1,7 @@
+---
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Jhoel's Webpage
+description: A showcase of different projects I've worked on.
+---
